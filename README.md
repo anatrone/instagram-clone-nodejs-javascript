@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This reposity
+This project was designed to learn in a week the various technologies most used in the market.
 
 ![RocketSeat](https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded400/528611/528611-1529426771233-408cb5b776122.jpg)
 
