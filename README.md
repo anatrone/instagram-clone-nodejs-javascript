@@ -1,7 +1,6 @@
 # instagram clone
 > react front-end and NodeJS app of the application model "Instagram" developed in the course of RocketSeat.
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project was designed to learn in a week the various technologies most used in the market.
