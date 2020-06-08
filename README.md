@@ -13,7 +13,7 @@ This project was designed to learn in a week the various technologies most used 
 
 Gabriel Anatrone – [@instagram](https://instagram.com/anatrone) – anatrone.gabriel@gmail.com
 
-Distributed under the Apache License 2.0. See [LICENSE](https://github.com/DLTK/models/blob/master/LICENSE) for more information.
+Distributed under the MIT. See [LICENSE](https://github.com/DLTK/models/blob/master/LICENSE) for more information.
 
 [https://github.com/anatrone/](https://github.com/anatrone/)
 
